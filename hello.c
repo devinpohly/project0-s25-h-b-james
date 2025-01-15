@@ -11,7 +11,7 @@ int main(void) {
 		printf("%d! ", i);
 	}
 	// ... until we reach the "\n" here.
-	printf("Blastoff\n");
+	printf("Abort! Abort!\n");
 
 	return 0;
 }
